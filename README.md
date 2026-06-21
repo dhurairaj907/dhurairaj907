@@ -26,8 +26,7 @@ Currently, I'm spending most of my time exploring large language models, transfo
 * Next.js
 * Vite
 * Tailwind CSS
-* Shadcn UI
-* Framer Motion
+
 
 ### Backend
 
