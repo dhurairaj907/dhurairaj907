@@ -1,81 +1,106 @@
-Hey, I'm Dhurairaj
+No. In fact, **long self READMEs are often worse**.
+
+When recruiters, developers, or hiring managers visit your GitHub profile, they spend **10–30 seconds** deciding whether to continue reading. A profile README should be concise, personal, and highlight your strongest work. Think of it as a portfolio landing page, not an autobiography.
+
+I would recommend something like this:
+
+---
+
+# Hey, I'm Dhurairaj
 
 I'm a Computer Science and Engineering student passionate about building intelligent systems and solving real-world problems through software.
 
 My interests lie in Artificial Intelligence, Full-Stack Development, IoT, and System Design. I enjoy learning by building projects and exploring how different technologies work together.
 
-Technologies
+## Technologies
 
-Languages
+**Languages**
 
-Python
-JavaScript
-TypeScript
-Java
-SQL
+* Python
+* JavaScript
+* TypeScript
+* Java
+* SQL
 
-Frontend
+**Frontend**
 
-React
-Next.js
-Tailwind CSS
+* React
+* Next.js
+* Tailwind CSS
 
-Backend
+**Backend**
 
-Node.js
-Express.js
+* Node.js
+* Express.js
 
-Database
+**Database**
 
-PostgreSQL
-MongoDB
-Firebase
+* PostgreSQL
+* MongoDB
+* Firebase
 
-AI & ML
+**AI & ML**
 
-Google Gemini API
-Transformers
-Prompt Engineering
+* Google Gemini API
+* Transformers
+* Prompt Engineering
 
-Tools
+**Tools**
 
-Git
-GitHub
-VS Code
-Render
-Featured Projects
-Personal Finance Manager
+* Git
+* GitHub
+* VS Code
+* Render
+
+---
+
+## Featured Projects
+
+### Personal Finance Manager
 
 An AI-powered finance application built with React, TypeScript, Express, PostgreSQL, and Google Gemini.
 
-Features
+**Features**
 
-Income and expense tracking
-Savings goals
-AI financial assistant
-Email notifications
-Session authentication
-Cloud deployment
+* Income and expense tracking
+* Savings goals
+* AI financial assistant
+* Email notifications
+* Session authentication
+* Cloud deployment
 
-Tech Stack: React • TypeScript • Express • PostgreSQL • Drizzle ORM • Gemini API • Resend • Render
+**Tech Stack:** React • TypeScript • Express • PostgreSQL • Drizzle ORM • Gemini API • Resend • Render
 
-Indoor Air Quality Monitoring System
+---
+
+### Indoor Air Quality Monitoring System
 
 An IoT project that monitors air quality, temperature, and humidity using Arduino and displays real-time data on a web dashboard.
 
-Tech Stack: Arduino • MQ135 • DHT11 • Firebase • React
+**Tech Stack:** Arduino • MQ135 • DHT11 • Firebase • React
 
-Currently Learning
-Transformer Architecture
-Machine Learning
-Deep Learning
-System Design
-AI Agents
-Areas of Interest
-Artificial Intelligence
-Full-Stack Development
-Embedded Systems
-IoT
-Real-World Software Applications
+---
 
-I believe the best way to learn is by building. Every project teaches something new, and that's what keeps me curious.
+## Currently Learning
+
+* Transformer Architecture
+* Machine Learning
+* Deep Learning
+* System Design
+* AI Agents
+
+---
+
+## Areas of Interest
+
+* Artificial Intelligence
+* Full-Stack Development
+* Embedded Systems
+* IoT
+* Real-World Software Applications
+
+---
+
+> I believe the best way to learn is by building. Every project teaches something new, and that's what keeps me curious.
+
+
