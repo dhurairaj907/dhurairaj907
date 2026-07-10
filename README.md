@@ -1,10 +1,3 @@
-No. In fact, **long self READMEs are often worse**.
-
-When recruiters, developers, or hiring managers visit your GitHub profile, they spend **10–30 seconds** deciding whether to continue reading. A profile README should be concise, personal, and highlight your strongest work. Think of it as a portfolio landing page, not an autobiography.
-
-I would recommend something like this:
-
----
 
 # Hey, I'm Dhurairaj
 
